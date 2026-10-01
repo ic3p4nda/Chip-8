@@ -1,0 +1,8 @@
+﻿cmake-build-debug/
+build/
+.idea/
+.vs/
+*.exe
+*.o
+*.obj
+roms/
